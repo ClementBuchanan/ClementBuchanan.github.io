@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/-0eyqmM-se1Q/VjKADy4KmRI/AAAAAAAAADQ/fRpPpNQ44UU/s1600/Growth-v-Fixed.jpg">
+<img src="https://1.bp.blogspot.com/-0eyqmM-se1Q/VjKADy4KmRI/AAAAAAAAADQ/fRpPpNQ44UU/s1600/Growth-v-Fixed.jpg", width=700, height=600>
 
 # Have you ever thought to yourself, "Why is it so hard for me to learn anything, and how can I fix it?"
 
@@ -22,9 +22,9 @@ A person having a fixed mindset often sees the glass as being half empty and the
 - The main thing for this person is to show that the glass can be refilled.
 - Looking smart is more important for this person
 - Values effort: No
-- 
 
-## How do I remind myself to keep in a growth mindset? ##
+## How do I remind myself to stay in a growth mindset? ##
 
 - I create a daily to do list, print it out and stick it to a wall in my workspace.
 - When I get stuck or if I feel like my creative juices are no longer flowing I physically step away from what I'm doing. Physically I'm not there but mentally I am, that way as my mojo returns I'm not too far removed from where I left off.
+- Being an avid learner also keeps me in the Growth Mindset. As a Software Developer in training I am well aware that I am required to constantly be ion the training zone/frame of mind, therefore I have created a repository of resources such as youtube videos and website links that I can rely on to help me when I need them.
