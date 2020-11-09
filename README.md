@@ -2,9 +2,6 @@
 Have you ever thought to yourself, "Why is it so hard for me to learn anything, and how can I fix it?"
 First you must understand your learning mindset and know the difference between them. Their are several types of learning mindsets but I will talk about the **Growth Mindset** and the **Fixed Mindset**. Having either of these will determine how you will learn anything. Let me explain and characterize them for you.
 
-![](/images/Growth-v-Fixed.jpg)
-<image src=https://1.bp.blogspot.com/-0eyqmM-se1Q/VjKADy4KmRI/AAAAAAAAADQ/fRpPpNQ44UU/s1600/Growth-v-Fixed.jpg>
-
 
 
 ## Growth Mindset ##
