@@ -1,12 +1,26 @@
 # How not to make your inability to learn things drive you crazy.
 Have you ever thought to yourself, "Why is it so hard for me to learn anything, and how can I fix it?"
-First you must understand your learning mindset and know the difference between them. Their are several types of learning mindsets but I will talk about the **Growth Mindset** and the **Fixed Mindset**. Having either of these will determine you ability to learn anything. Let me explain and characterize them for you.
+First you must understand your learning mindset and know the difference between them. Their are several types of learning mindsets but I will talk about the **Growth Mindset** and the **Fixed Mindset**. Having either of these will determine how you will learn anything. Let me explain and characterize them for you.
 
-## Growth Mindset
-A person with a growth mindset always sees the glass is half full and wants to fill it back up.
-- This is synonomous with making achievements
-- 
+## Growth Mindset ##
+A person with a growth mindset often sees the glass is half-full and wants to fill it back up by any means necessary. These individuals are highly motivated.
+
+- The main thing for this individual is to show the fdifferent ways the glass can be refilled.
+- This mindset is synonomous with making achievements.
+- People with growth mindsets seeks help when studying.
+- They have a positive response to challenges and setbacks.
+- Learning is most important for this person.
+- Values effort: Yes
 
 ## Fixed Mindset ##
-A person having a fixed mindset is the polar opposite. He/She always sees the glass as being half empty and wants to leave it that way.
+A person having a fixed mindset often sees the glass as being half empty and there's only one way to refill it.
 
+- The main thing for this person is to show that the glass can be refilled.
+- Looking smart is more important for this person
+- Values effort: No
+- 
+
+## How do I remind myself to keep in a growth mindset ##
+
+- I create a daily to do list, print it out and stick it to a wall in my workspace.
+- 
