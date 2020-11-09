@@ -20,7 +20,7 @@ A person having a fixed mindset often sees the glass as being half empty and the
 - Values effort: No
 - 
 
-## How do I remind myself to keep in a growth mindset ##
+## How do I remind myself to keep in a growth mindset? ##
 
 - I create a daily to do list, print it out and stick it to a wall in my workspace.
-- 
+- When I get stuck or if I feel like my creative juices are no longer flowing I physically step away from what I'm doing. Mentally the work 
