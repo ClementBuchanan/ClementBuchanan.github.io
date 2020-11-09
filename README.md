@@ -1,4 +1,4 @@
-![](images/growth.png)
+<img src="https://1.bp.blogspot.com/-0eyqmM-se1Q/VjKADy4KmRI/AAAAAAAAADQ/fRpPpNQ44UU/s1600/Growth-v-Fixed.jpg, width=700, height=800">
 
 # Have you ever thought to yourself, "Why is it so hard for me to learn anything, and how can I fix it?"
 
