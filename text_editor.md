@@ -31,7 +31,8 @@ It is import to chose the the right WYSIWYG editor for the environment you're wo
 - **For Basic Navigation** -  One way to give yourself a sense of orientation when using the command prompt, is being able to navigate around the file system and into different folders.
 - **About Files** - Command prompt can search a particular drive, or a specific folder for files and folders.
 
-# Cheat Sheet
+### Cheat Sheet
+
  Command Type | Command | What is does | Example
  -------------|---------|-------------- |--------
 Change Directory|c:\cd|Changes the directory of the command line path|cd "path/to/directory/" 
