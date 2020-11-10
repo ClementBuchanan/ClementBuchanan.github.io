@@ -1,4 +1,5 @@
-![](images/mindset.png)
+![](http://i2.wp.com/trainugly.com/wp-content/uploads/2015/11/Growth-Mindset-Characteristics-Table.png)
+
 
 # Have you ever thought to yourself, "Why is it so hard for me to learn anything, and how can I fix it?"
 
