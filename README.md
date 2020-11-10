@@ -10,11 +10,11 @@ First you must understand your learning mindset and know the differences between
 A person with a growth mindset often sees the glass is half-full and wants to fill it back up by any means necessary. These individuals are highly motivated.
 
 1. The main thing for this individual is to show the fdifferent ways the glass can be refilled.
-2. This mindset is synonomous with making achievements.
-3. People with growth mindsets seeks help when studying.
-4. They have a positive response to challenges and setbacks.
-5. Learning is most important for this person.
-6. Values effort: Yes
+1. This mindset is synonomous with making achievements.
+1. People with growth mindsets seeks help when studying.
+1. They have a positive response to challenges and setbacks.
+1. Learning is most important for this person.
+1. Values effort: Yes
 
 ## Fixed Mindset ##
 A person having a fixed mindset often sees the glass as being half empty and there's only one way to refill it.
