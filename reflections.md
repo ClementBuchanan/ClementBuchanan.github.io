@@ -25,6 +25,10 @@ Example: Header 2 is characterized by having 2 hashtags before the words
 Example Header 3 is characterized by having 3 hashtags before the words
 ### Nada Mas!
 
-The day went well until it was time to setup my computer. This was a bit challenging due to my Windows computer not being able to update which is a big problem. I'm waiting for my Macbook Pro to arrive. Until then I'm not sure what will happen. My instructor keeps saying, *__"hit the pause button"__.* What he means is to never give up. Do not get frustrated. If you tried and failed, you should step back for the work, reflect, come back and try it again. 
+The day went well until it was time to setup my computer. This was a bit challenging due to my Windows computer not being able to update which is a big problem. I'm waiting for my Macbook Pro to arrive. Until then I'm not sure what will happen. 
+
+My instructor keeps saying, *__"hit the pause button"__.* (This is how write text in bolded italics).
+
+What he means is to never give up. Do not get frustrated. If you tried and failed, you should step back for the work, reflect, come back and try it again. 
 
 There is a lot more that happened that I'd like to share with you but I can't share them right now. I can only say I hope you can learn how to do it too.
