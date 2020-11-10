@@ -38,4 +38,5 @@ Change Directory|c:\cd|Changes the directory of the command line path|cd "path/t
 Listing Directory|c:\ls|List the content of a directory|ls "path/to/directory/"
 Open file|c:\open|opens a file|open "filename"
 Copy|c:\cp|copies a file to another directory|cp "filename" "newfilename"
-
+Move a file|c:\mv|Moves a file to a new folder|mv "filename" "path/to/new/file/location" 
+Renaming a file|c:\mv|Renames a file|mv "path/to/filename" "path/to/newfilename" 
