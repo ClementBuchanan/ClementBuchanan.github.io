@@ -28,6 +28,6 @@ A person having a fixed mindset often sees the glass as being half empty and the
 
 - I create a daily to do list, print it out and stick it to a wall in my workspace.
 - When I get stuck or if I feel like my creative juices are no longer flowing I physically step away from what I'm doing. Physically I'm not there but mentally I am, that way as my mojo returns I'm not too far removed from where I left off.
-- Being an avid learner also keeps me in the Growth Mindset. As a Software Developer in training I am well aware that I am required to constantly be ion the training zone/frame of mind, therefore I have created a repository of resources such as youtube videos and website links that I can rely on to help me when I need them.
+- Being an avid learner also keeps me in the Growth Mindset. As a Software Developer in training I am well aware that I am required to constantly be in my training zone/frame of mind, therefore I have created a repository of resources such as youtube videos and coding website links that I can rely on to help me when I need them.
 
 
