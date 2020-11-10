@@ -27,6 +27,15 @@ It is import to chose the the right WYSIWYG editor for the environment you're wo
  
 ### Why use the terminal
 
-- **The Command Line** - 
-- **Basic Navigation** - 
-- **About Files** - 
+- **Using the Command Line** - To utomate tasks via scripts and batch files, perform advanced administrative functions, and troubleshoot or solve issues.
+- **For Basic Navigation** -  One way to give yourself a sense of orientation when using the command prompt, is being able to navigate around the file system and into different folders.
+- **About Files** - Command prompt can search a particular drive, or a specific folder for files and folders.
+
+# Cheat Sheet
+ Command Type | Command | What is does | Example
+ -------------|---------|-------------- |--------
+Change Directory|cd:\|Changes the directory of the command line path|cd "path/to/directory/" 
+Listing Directory|cd:\ls|List the content of a directory|ls "path/to/directory/"
+Open file|c:\open|opens a file|open "filename"
+Copy|c:\cp|copies a file to another directory|cp "filename" "newfilename"
+
