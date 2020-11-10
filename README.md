@@ -1,4 +1,4 @@
-![](images/growth.jpg)
+![](images/mindset.png)
 
 # Have you ever thought to yourself, "Why is it so hard for me to learn anything, and how can I fix it?"
 
