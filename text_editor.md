@@ -34,7 +34,7 @@ It is import to chose the the right WYSIWYG editor for the environment you're wo
 # Cheat Sheet
  Command Type | Command | What is does | Example
  -------------|---------|-------------- |--------
-Change Directory|cd:\|Changes the directory of the command line path|cd "path/to/directory/" 
+Change Directory|cd:\Changes the directory of the command line path|cd "path/to/directory/" 
 Listing Directory|cd:\ls|List the content of a directory|ls "path/to/directory/"
 Open file|c:\open|opens a file|open "filename"
 Copy|c:\cp|copies a file to another directory|cp "filename" "newfilename"
