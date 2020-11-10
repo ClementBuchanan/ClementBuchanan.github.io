@@ -1,4 +1,4 @@
-![image](/images/growth.jpg)
+![](/images/growth.jpg)
 
 # Have you ever thought to yourself, "Why is it so hard for me to learn anything, and how can I fix it?"
 
