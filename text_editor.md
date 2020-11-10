@@ -25,7 +25,7 @@ Here's a list of a some others:
 ### Why it’s important for software developers to be thoughtful about their selection of what they use to write code.
 It is import to chose the the right WYSIWYG editor for the environment you're working in. For example when building Joomla websites I prefer to use the JCE Editor to write articles because of its ease of use, flexibility and it is rich with features. When writing documents I like to use MS Word for the same reasons. Although Notepad is a text editor I don't like to use. I just don't. Some WYSIWYG editors are built into software packages and others are plugins. There are also some case where you can't use a WYSIWYG editor. 
  
-### Hsy use the terminal
+### Why use the terminal
 
 - **The Command Line** - 
 - **Basic Navigation** - 
