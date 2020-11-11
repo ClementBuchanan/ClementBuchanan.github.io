@@ -43,4 +43,4 @@ What he means is to never give up. Do not get frustrated. If you tried and faile
 
 There is a lot more that happened that I'd like to share with you but I can't share them right now. I can only say I hope you can learn how to do it too.
 
-## [<== Back](README.md) | [Next ==>](about_git.md)
+### [<== Back](README.md) | [Next ==>](about_git.md)
