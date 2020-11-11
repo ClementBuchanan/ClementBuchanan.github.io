@@ -26,14 +26,14 @@ HTML 5 ushered in Extra Markup - A new set of elementsthat allows webpage design
 1. **IFrames**: Used to cut a little window in your page and see another page on this window. Similar to PIP on your TV.
 1. **Escape Characters**: Used to perform special functions
 
-	Name|Escape Character
-  ----|----------------
-<	Less-than sign|<&>lt, <&>#60
->	Greater-than sign|<&>gt, <&>#62
-&	Ampersand	<&>amp|<&>#38
-"	Quotation mark|<&>quot, <&>#34
-¢	Cent sign	<&>cent|<&>#162
-£	Pound sign	<&>pound|<&>#163
+Name|Escape Character
+----|----------------
+< Less-than sign|<&>lt, <&>#60
+|> Greater-than sign|<&>gt, <&>#62|
+|& Ampersand|<&>amp, <&>#38|
+" Quotation mark|<&>quot, <&>#34
+¢ Cent sign|<&>cent,<&>#162
+£ Pound sign|<&>pound, <&>#163
 
 
 ## Webpage layout - Traditional vs HTML 5 ##
