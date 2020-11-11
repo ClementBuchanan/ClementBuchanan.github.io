@@ -41,3 +41,6 @@ Open file|c:\open|opens a file|open "filename"
 Copy|c:\cp|copies a file to another directory|cp "filename" "newfilename"
 Move a file|c:\mv|Moves a file to a new folder|mv "filename" "path/to/new/file/location" 
 Renaming a file|c:\mv|Renames a file|mv "path/to/filename" "path/to/newfilename" 
+
+
+### [<== Back](README.md)
