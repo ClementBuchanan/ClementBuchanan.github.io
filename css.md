@@ -1,4 +1,3 @@
-![](https://cdn2.iconfinder.com/data/icons/file-and-folder-25/64/CSS-cascading-style-sheets-512.png)
 
 # This is css
 
