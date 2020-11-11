@@ -31,9 +31,9 @@ Name|Escape Character
 < Less-than sign|<&>lt, <&>#60
 |> Greater-than sign|<&>gt, <&>#62|
 |& Ampersand|<&>amp, <&>#38|
-" Quotation mark|<&>quot, <&>#34
-¢ Cent sign|<&>cent,<&>#162
-£ Pound sign|<&>pound, <&>#163
+|" Quotation mark|<&>quot, <&>#34|
+|¢ Cent sign|<&>cent,<&>#162|
+|£ Pound sign|<&>pound, <&>#163|
 
 
 ## Webpage layout - Traditional vs HTML 5 ##
