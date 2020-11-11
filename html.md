@@ -5,7 +5,7 @@ HTML stands for Hypertext Markup Language and are used to write webpages that ar
 The first pair is called an open tag and the second pair is called a closed tag. To learn HTML you must know what tags are available for you to use, what they do and where they go.
 
 ### Here is a sample of what HTML tags look like
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/HTML_source_code_example.svg/968px-HTML_source_code_example.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/HTML_source_code_example.svg/500px-HTML_source_code_example.svg.png)
 
 HTML have evolved since the web was created. Each new version improved upon the previous. Because of this each webpage must begin with the word DOCTYPE telling the web browser which version of HTML the website was built with.
 
@@ -41,3 +41,6 @@ Name|Escape Character
  As you can see from the image below HTML5 uses less syntax than the previous version making it easier to work with.
  
  ![](http://www.codeproject.com/KB/aspnet/702051/image3.png)
+ 
+ 
+ ### [<== Back](README.md)   |   [Next ==>](mindset.md)
