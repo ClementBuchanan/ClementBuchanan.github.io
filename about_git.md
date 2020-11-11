@@ -21,3 +21,5 @@ It is used for importing an existing project or directory onto a local terminal 
 1. It can be used for tracking and staging files: To do this we use the commands - *__git add filename__* (for single file) and *__$ Git add *__* (for multiple files)
 1. After staging files they are completed they should be committed to record what was done in them: This is done by using the command: *__$ Git commit -m "made changes to x, y z and all"__*
 1. Finally 'Pushing' refers to pushing the changed file or folder or project up to the remote reposiitory in the cloud: This is done using the command: *__$ Git push origin main__*
+
+                                  ![Next Page](https://www.flaticon.com/svg/static/icons/svg/1/1371.svg)[](README)
