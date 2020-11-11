@@ -32,7 +32,7 @@ A person having a fixed mindset often sees the glass as being half empty and the
 - Being an avid learner also keeps me in the Growth Mindset. As a Software Developer in training I am well aware that I am required to constantly be in my training zone/frame of mind, therefore I have created a repository of resources such as youtube videos and coding website links that I can rely on to help me when I need them.
 
 
-### [<== Back](README.md)  |  [Next ==>](
+### [<== Back](README.md)  |  [Next ==>](wysiwyg.md)
 
 
 
