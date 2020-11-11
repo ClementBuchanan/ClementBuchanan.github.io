@@ -42,3 +42,5 @@ My instructor keeps saying, *__"hit the pause button"__.* (This is how to write 
 What he means is to never give up. Do not get frustrated. If you tried and failed, you should step back for the work, reflect, come back and try it again. 
 
 There is a lot more that happened that I'd like to share with you but I can't share them right now. I can only say I hope you can learn how to do it too.
+
+## [<== Back](README.md) | [Next ==>](about_git.md)
