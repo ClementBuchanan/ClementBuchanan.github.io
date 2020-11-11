@@ -38,3 +38,6 @@ Name|Escape Character
 
 ## Webpage layout - Traditional vs HTML 5 ##
 
+ As you can see from the image below HTML5 uses less syntax than the previous version making it easier to work with.
+ 
+ ![](http://www.codeproject.com/KB/aspnet/702051/image3.png)
