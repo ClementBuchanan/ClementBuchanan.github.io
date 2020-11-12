@@ -2,7 +2,7 @@
 
 ![image](Buchanan_Clement.jpg = 400x)
 
-Let me tell you a little bit about me. I'm a really nice guy but to know me is to really know me. I love my life, my family and coding. I learned to code at CodeFellows. It's a great place to learn software development. 
+Let me tell you a little bit about me. I'm a really nice guy but to know me is to really know me. I love my life, my family and coding. I learned to code at CodeFellows. It's a great place to learn software development.
 
 ### Table of Contents
 
@@ -13,6 +13,3 @@ Let me tell you a little bit about me. I'm a really nice guy but to know me is t
 1. [About chosing a WYSIWYG editor](wysiwyg.md)
 1. [About Cascading Style Sheets](css.md)
 1. [Roots, Rock and reggae](rastaman.html)
-
-
-      
