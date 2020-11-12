@@ -12,6 +12,7 @@ Let me tell you a little bit about me. I'm a really nice guy but to know me is t
 1. [About growth mindset](mindset.md)
 1. [About chosing a WYSIWYG editor](wysiwyg.md)
 1. [About Cascading Style Sheets](css.md)
+1. [Roots, Rock and reggae](rastaman.html)
 
 
       
