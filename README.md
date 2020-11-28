@@ -1,6 +1,7 @@
 # Welcome to Clement Buchanan's Github page
 
 ![image](Buchanan_Clement1.jpg)
+div style="text-align:center"><img src="Buchanan_Clement1.jpg" /></div>
 
 Let me tell you a little bit about me. I'm a really nice guy but to know me is to really know me. I love my life, my family and coding. I learned to code at CodeFellows. It's a great place to learn software development.
 
