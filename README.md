@@ -12,5 +12,5 @@ Let me tell you a little bit about me. I'm a really nice guy but to know me is t
 1. [About growth mindset](mindset.md)
 1. [About chosing a WYSIWYG editor](wysiwyg.md)
 1. [About Cascading Style Sheets](css.md)
-1. [Icons of Reggae Music](clementbuchanan.github.io/music)
+1. [Icons of Reggae Music](https://clementbuchanan.github.io/music)
 1. [Code 201 Reading Notes](code201Notes.md)
