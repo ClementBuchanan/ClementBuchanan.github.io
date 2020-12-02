@@ -15,6 +15,6 @@ Let me tell you a little bit about me. I'm a really nice guy but to know me is t
     1. [About Cascading Style Sheets](css.md)
     1. [Icons of Reggae Music](https://clementbuchanan.github.io/music)
 1. [Code 201 Reading Notes](code201Notes.md)
-    1. [Class 01](code201Class01.md)
     1. [About Me](aboutMe.html)
+    1. [Class 01](code201Class01.md)
     1. [Class 02](code201Class02.md)
