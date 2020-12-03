@@ -19,4 +19,4 @@ Let me tell you a little bit about me. I'm a really nice guy but to know me is t
     1. [Class 01](code201Class01.md)
     1. [Class 02](code201Class02.md)
     1. [Class 03](code201Class03.md)
-    1. [Lab 02](https://github.com/ClementBuchanan/201project)
+    1. [Lab 02](https://clementbuchanan.github.io/201project/)
