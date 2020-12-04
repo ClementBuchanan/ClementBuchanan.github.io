@@ -4,7 +4,7 @@
 
 Links are created using <> with an 'a' element between them indicating an attribute called href. The value of an href attribute is the page you want users to go to when they click the link. It is written like this:
 
-< a href="https//www.livewisely2020.com">
+< a href="https://www.livewisely2020.com">
 
 So you can link to anything on the internet with this.
 
