@@ -1,4 +1,4 @@
-# A sumamary of lesson 3
+# A summary of lesson 3
 
 ## Chapter 4 is about website links and how they are created.
 
