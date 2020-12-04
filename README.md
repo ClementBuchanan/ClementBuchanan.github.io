@@ -26,5 +26,5 @@ Let me tell you a little bit about me. I'm a really nice guy but to know me is t
     1. [Class 07](code201Class07.md)
     1. [Class 08](Code201Class08.md)
     1. [Class 09](code201Class09.md)
-    1. [Class10](code201Class10.md)
+    1. [Class 10](code201Class10.md)
     
