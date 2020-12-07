@@ -34,7 +34,7 @@ Document Object Model specifies how a browsers should create a model of the HTML
 
 A browser takes a snapshot of a webpage's DOM and stores it in it's memory. This is called a DOM tree. This is what it looks like (like an org chart):
 
-![](images/Dom-Tree.png)
+![](images/DomTree.png)
 
 The DOM tree has four types of nodes:
 

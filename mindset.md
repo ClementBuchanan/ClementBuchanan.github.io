@@ -15,7 +15,7 @@ A person with a growth mindset often sees the glass is half-full and wants to fi
 1. Learning is most important for this person.
 1. Values effort: Yes
 
-![](images/growth.jg)
+![](images/growth.jpg)
 
 ## Fixed Mindset ##
 A person having a fixed mindset often sees the glass as being half empty and there's only one way to refill it.
