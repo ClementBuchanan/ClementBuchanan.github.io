@@ -14,21 +14,7 @@ There are long tables and short tables. Three elements are used to differentiate
 * Body: Sits inside the **_tbody_** element
 * Foot: Sits inside the **_tfoot_** element
 
-Here is a sample code for a table from w3schools at [](https://www.w3schools.com/html/html_tables.asp)
-
-<table style="width:100%">
-  <tr>
-    <th>Name:</th>
-    <td>Bill Gates</td>
-  </tr>
-  <tr>
-    <th rowspan="2">Telephone:</th>
-    <td>55577854</td>
-  </tr>
-  <tr>
-    <td>55577855</td>
-  </tr>
-</table>
+Here is an example of a html table
 
 ![HTML table](images/table.jpg)
 
