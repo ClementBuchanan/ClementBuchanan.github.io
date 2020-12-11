@@ -9,9 +9,7 @@ Syntax errors, also called parsing errors at interpret time in JavaScript.
 For example, the following line causes a syntax error because it is missing a closing parenthesis.
 
 <script type = "text/javascript">
-   <!--
       window.print(;
-   //-->
 </script>
 
 When a syntax error occurs in JavaScript, only the code contained within the same thread as the syntax error is affected and the rest of the code in other threads gets executed assuming nothing in them depends on the code containing the error.
@@ -23,9 +21,7 @@ Runtime errors, also called exceptions, occur during execution (after compilatio
 For example, the following line causes a runtime error because here the syntax is correct, but at runtime, it is trying to call a method that does not exist.
 
 <script type = "text/javascript">
-   <!--
       window.printme();
-   //-->
 </script>
 
 Exceptions also affect the thread in which they occur, allowing other JavaScript threads to continue normal execution.
@@ -45,22 +41,18 @@ You can catch programmer-generated and runtime exceptions, but you cannot catch 
 Here is the try...catch...finally block syntax
 
 <script type = "text/javascript">
-   <!--
       try {
          // Code to run
          [break;]
       } 
-      
       catch ( e ) {
          // Code to run if an exception occurs
          [break;]
       }
-      
       [ finally {
          // Code that is always executed regardless of 
          // an exception occurring
       }]
-   //-->
 </script>
 
 The try block must be followed by either exactly one catch block or one finally block (or one of both). When an exception occurs in the try block, the exception is placed in e and the catch block is executed. The optional finally block executes unconditionally after try/catch.
