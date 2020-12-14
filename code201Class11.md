@@ -15,36 +15,17 @@ Images play an important role in any webpage. Though it is not recommended to in
 
 - The border property of an image is used to set the width of an image border. This property can have a value in length or in %.
 - width of zero pixels means no border.
+- border-width: thin;
+- border-width: medium;
+- border-width: thick;
 
 Here's an example:
 
-<html>
-   <head>
-   </head>
-
-   <body>
-      <img style = "border:0px;" src = "/css/images/logo.png" />
-      <br />
-      <img style = "border:3px dashed red;" src = "/css/images/logo.png" />
-   </body>
-</html> 
+![Border](images/border-width.jpg)
 
 **The Image Height Property**
 
-The height property of an image is used to set the height of an image. This property can have a value in length or in %. While giving value in %, it applies it in respect of the box in which an image is available.
-
-Here is an example −
-
-<html>
-   <head>
-   </head>
-
-   <body>
-      <img style = "border:1px solid red; height:100px;" src = "/css/images/logo.png" />
-      <br />
-      <img style = "border:1px solid red; height:50%;" src = "/css/images/logo.png" />
-   </body>
-</html>
+The height property of an image is used to set the height of an image. This property can have a value in length or in %. While giving value in %, it applies it in respect of the box in which an image is available. This is done in a similar manner to the border.
 
 **Chapter 19: “Practical Information” (476-492)**
 
@@ -66,5 +47,3 @@ when it comes to website accessability and user interfacing it is important to c
 * Off-Page: Getting other sites to link to you, words between the <a>tag</a>, linking word on pages.
 
 ![SEO](images/seo.jpg)
-
-
