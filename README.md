@@ -2,7 +2,7 @@
 
 ![image](images/Buchanan_Clement1.jpg) 
 
-Let me tell you a little bit about me. I'm a really nice guy but to know me is to really know me. I love my life, my family and coding. I learned to code at CodeFellows. It's a great place to learn software development.
+Let me tell you a little bit about me. I'm a really nice guy but to know me is to really know me. I love my life, my family and coding. I learned to code at CodeFellows. It's a great place to learn software development. A new careeer and a new life.
 
 ### Table of Contents
 
@@ -37,7 +37,7 @@ Let me tell you a little bit about me. I'm a really nice guy but to know me is t
     1. [Class 11](code201Class11.md)
         - [lab 11](lab11.md)
     1. [Class 12](code201Class12.md)
-        - [lab 12](lab12.md)
+        - [lab 12](https://clementbuchanan.github.io/BusMall/)
     1. [Class 13](code201Class13.md)
         - [lab 13](lab13.md)
     1. [Class 14](code201Class14.md)
