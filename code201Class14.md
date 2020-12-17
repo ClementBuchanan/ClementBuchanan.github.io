@@ -23,18 +23,6 @@ CSS transform property have many types:
 - ***Transform Origin*** - The transform-origin property can accept one or two values. When only one value is specified, that value is used for both the horizontal and vertical axes. If two values are specified, the first is used for the horizontal axis and the second is used for the vertical axis.
 - ***Perspective*** - In order for three-dimensional transforms to work the elements need a perspective from which to transform. The perspective for each element can be thought of as a vanishing point, similar to that which can be seen in three-dimensional drawings.
 - ***3D Transforms*** - Using three-dimensional transforms we can change elements on the z axis, giving us control of depth as well as length and width. Here's a sample HTML and CSS code for this:
-
-**HTML**
-<div class="original original-1">
-  <figure class="box">Box 1</figure>
-</div>
-<div class="original original-2">
-  <figure class="box">Box 2</figure>
-</div>
-<div class="original original-3">
-  <figure class="box">Box 3</figure>
-</div>
-
               
 **CSS**
 .original {
@@ -56,12 +44,6 @@ CSS transform property have many types:
 - ***Transform Style*** - On occasion three-dimensional transforms will be applied on an element that is nested within a parent element which is also being transformed. In this event, the nested, transformed elements will not appear in their own three-dimensional space.
 - ***Backface Visibility*** When working with three-dimensional transforms, elements will occasionally be transformed in a way that causes them to face away from the screen. This may be caused by setting the rotateY(180deg) value for example. Here's a sample HTML and CSS code for this:
 
-
-**HTML**
-<figure class="box-1">Box 1</figure>
-<figure class="box-2">Box 2</figure>
-
-
 **CSS**
 .box-1 {
   transform: rotateY(180deg);
@@ -70,7 +52,6 @@ CSS transform property have many types:
   backface-visibility: hidden;
   transform: rotateY(180deg);
 }
-
 
 ## CSS Transitions & Animations
 CSS has rhe ability to write behavior for tansitions and animations withouth the use of Javascript or flash. With CSS3 transitions we now have the potential to alter the appearance and behavior of an element whenever a state change occurs, such as when it is hovered over, focused on, active, or targeted. The easiest way for determining styles for different states is by using the :hover, :focus, :active, and :target pseudo-classes. There are four properties:
