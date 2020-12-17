@@ -40,7 +40,7 @@ Let me tell you a little bit about me. I'm a really nice guy but to know me is t
         - [lab 12](https://clementbuchanan.github.io/BusMall/)
     1. [Class 13](code201Class13.md)
         - [lab 13](lab13.md)
-    1. [Class 14](code201Class14.md)
+    1. [Class 14a](code201Class14a.md) [Class 14b](code201Class14b.md)
         - [lab 14a](lab14.md)
         - [lab 14b](lab14b.md)
     1. [Class 15](code20Class15.md)
