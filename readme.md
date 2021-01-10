@@ -1,12 +1,12 @@
 # Welcome to Clement Buchanan's Github page
 
-![image](images/Buchanan_Clement1.jpg) 
+![image](images/Buchanan_Clement1.jpg =300x300) 
 
-Let me tell you a little bit about me. I'm a really nice guy but to know me is to really know me. I love my life, my family and coding. I learned to code at CodeFellows. It's a great place to learn software development. A new careeer and a new life.
+I am a software developer with a passion for creating technological applications for making the delivery of healthcare services more dynamic and simplified and to improve address and improve longstanding logistical and technological issues. My background is in data analysis, informatics and public health. I would like to be employed by a companies healthcare line of business.
 
 # Table of Contents
 
-| Code 102                                          | Code 201                                         | Code 301 | Code 401 |
+| ^c-Code 102                                          | ^c-Code 201                                         | ^c-Code 301 | ^c-Code 401 |
 |---------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------|----------------------------|
 | 1. [Code 102 Reading Notes](README.md)                              | 1. [Code 201 Reading Notes](code201Notes.md)                       |                            |                            |
 | 1. [My first day of training](training.md)                          | 1. [About Me](aboutMe.html)                                        |                            |                            |
