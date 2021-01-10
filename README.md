@@ -6,7 +6,7 @@ Let me tell you a little bit about me. I'm a really nice guy but to know me is t
 
 # Table of Contents
 
-| Code 102 Table of Contents                                          | Code 201 Table of Contents                                         | Code 301 Table of Contents | Code 401 Table of Contents |
+| Code 102                                          | Code 201                                         | Code 301 | Code 401 |
 |---------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------|----------------------------|
 | 1. [Code 102 Reading Notes](README.md)                              | 1. [Code 201 Reading Notes](code201Notes.md)                       |                            |                            |
 | 1. [My first day of training](training.md)                          | 1. [About Me](aboutMe.html)                                        |                            |                            |
