@@ -8,9 +8,9 @@
 | Code 102                                                            | Code 201                                                            | Code 301 | Code 401 |
 |---------------------------------------------------------------------|---------------------------------------------------------------------|----------|----------|
 | 1. [Code 102 Reading Notes](README.md)                              | 1. [Code 201 Reading Notes](code201Notes.md)                        |  1. [Code 301 Readme](https://clementbuchanan.github.io/data-structures-and-algorithms/)        |          |
-| 2. [My first day of training](training.md)                          | 2. [About Me](aboutMe.html)                                         |  2. [Reading-01](https://clementbuchanan.github.io/data-structures-and-algorithms/reading-01.html)
-| 3. [About Git](about_git.md)                                        | 3. [Class 01](code201Class01.md)                                    |          |          |
-| 4. [About HTML](html.md)                                            | 4. [Class 02](code201Class02.md)                                    |          |          |
+| 2. [My first day of training](training.md)                          | 2. [About Me](aboutMe.html)                                         |  2. [Class-01](https://clementbuchanan.github.io/data-structures-and-algorithms/reading-01.html)
+| 3. [About Git](about_git.md)                                        | 3. [Class 01](code201Class01.md)                                    |  3. [Class-02](https://github.com/ClementBuchanan/seattle-301d70-README.md/blob/main/reading-02.md)      |          |
+| 4. [About HTML](html.md)                                            | 4. [Class 02](code201Class02.md)                                    |  4. [Class-03](https://github.com/ClementBuchanan/seattle-301d70-README.md/blob/main/reading-03.md)     |          |
 | 5. [About growth mindset](mindset.md)                               | a. [Lab 02](https://clementbuchanan.github.io/201project/)          |          |          |
 | 6. [About chosing a WYSIWYG editor](wysiwyg.md)                     | 5. [Class 03](code201Class03.md)                                    |          |          |
 | 7. [About Cascading Style Sheets](css.md)                           | 6. [Class 04](code201Class04.md)                                    |          |          |
