@@ -8,7 +8,7 @@ Let me tell you a little bit about me. I'm a really nice guy but to know me is t
 
 | Code 102 Table of Contents                                          | Code 201 Table of Contents                                         | Code 301 Table of Contents | Code 401 Table of Contents |
 |---------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------|----------------------------|
-| 1. [Code 102 Reading Notes](README.md)                              | 1. [Code 201 Reading Notes](code201Notes.md)                       |                            |                            |
+| 1. [Code 102 Reading Notes](README.md)                              | 1. [Code 201 Reading Notes](code201Notes.md)                       | 1. [Class 01](class-01.md)               | 1. [Class 02](class-o2.md)                         |1. [Class 03](clas-03.md)
 | 1. [My first day of training](training.md)                          | 1. [About Me](aboutMe.html)                                        |                            |                            |
 | 1. [About Git](about_git.md)                                        | 1. [Class 01](code201Class01.md)                                   |                            |                            |
 | 1. [About HTML](html.md)                                            | 1. [Class 02](code201Class02.md)                                   |                            |                            |
