@@ -11,7 +11,7 @@
 | 2. [My first day of training](training.md)                          | 2. [About Me](aboutMe.html)                                         |  2. [301 Class-01](301Class-01)
 | 3. [About Git](about_git.md)                                        | 3. [Class 01](code201Class01.md)                                    |  3. [301 Class-03](301Class-03.md)       |          |
 | 4. [About HTML](html.md)                                            | 4. [Class 02](code201Class02.md)                                    |  4. [301 Class-04](301Class04.md)       |          |
-| 5. [About growth mindset](mindset.md)                               | a. [Lab 02](https://clementbuchanan.github.io/201project/)          |  5. [301 Class-05](301Clas05.md)         |          |
+| 5. [About growth mindset](mindset.md)                               | a. [Lab 02](https://clementbuchanan.github.io/201project/)          |  5. [301 Class-05](301Class05.md)         |          |
 | 6. [About chosing a WYSIWYG editor](wysiwyg.md)                     | 5. [Class 03](code201Class03.md)                                    |          |          |
 | 7. [About Cascading Style Sheets](css.md)                           | 6. [Class 04](code201Class04.md)                                    |          |          |
 | 8. [Icons of Reggae Music](https://clementbuchanan.github.io/music) | 7. [Class 05](code201Class05.md)                                    |          |          |
