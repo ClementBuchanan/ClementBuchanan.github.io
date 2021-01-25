@@ -17,7 +17,7 @@
 | 8. [Icons of Reggae Music](https://clementbuchanan.github.io/music) | 7. [Class 05](code201Class05.md)                                    |  8. [301 Class 08](301Class08.md)       |          |
 |                                                                     | 8. [Class 06](code201Class06.md)                                    |  9. [301 Class 09](301Class09.md)       |          |
 |                                                                     | 9. [Class 07](code201Class07.md)                                    |  10. [301 Class 10](301Class10.md)       |          |
-|                                                                     |   a.  [Lab 07](https://github.com/ClementBuchanan/salmon-cookies)     11. [301 Class 11](301Class11.md)|          |          |
+|                                                                     |   a.  [Lab 07](https://github.com/ClementBuchanan/salmon-cookies)   |  11. [301 Class 11](301Class11.md)         |          |
 |                                                                     | 10. [Class 08](code201Class08.md)                                   |          |          |
 |                                                                     |   a.  [lab 08a](lab08a.md)                                            |          |          |
 |                                                                     |   b.  [lab 08b](lab08b.md)                                            |          |          |
