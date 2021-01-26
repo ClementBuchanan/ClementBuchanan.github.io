@@ -18,7 +18,7 @@
 |                                                                     | 8. [Class 06](code201Class06.md)                                    |  9. [301 Class 09](301Class09.md)       |          |
 |                                                                     | 9. [Class 07](code201Class07.md)                                    |  10. [301 Class 10](301Class10.md)       |          |
 |                                                                     |   a.  [Lab 07](https://github.com/ClementBuchanan/salmon-cookies)   |  11. [301 Class 11](301Class11.md)         |          |
-|                                                                     | 10. [Class 08](code201Class08.md)                                   |          |          |
+|                                                                     | 10. [Class 08](code201Class08.md)                                   |  12. [301 Class 12](301Class12.md)        |          |
 |                                                                     |   a.  [lab 08a](lab08a.md)                                            |          |          |
 |                                                                     |   b.  [lab 08b](lab08b.md)                                            |          |          |
 |                                                                     | 11. [Class 09](code201Class09.md)                                   |          |          |
