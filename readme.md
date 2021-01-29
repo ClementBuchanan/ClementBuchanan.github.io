@@ -21,7 +21,6 @@
 |                                                                     | 10. [Class 08](code201Class08.md)                                   |  12. [301 Class 12](301Class12.md)        |          |
 |                                                                     |   a.  [lab 08a](lab08a.md)                                          |  13. [301 Class 13](301Class13.md)         |          |
 |                                                                     |   b.  [lab 08b](lab08b.md)                                          |  14. [301 Class 14](301Class14.md) |          |          |
-|                                                                     | 11. [Class 09](code201Class09.md)                                   |          |          |
 |                                                                     |   a.  [Lab 09](lab09.md)                                              |          |          |
 |                                                                     | 12. [Class 10](code201Class10.md)                                   |          |          |
 |                                                                     |   a.  [lab 10a](Lab10a.md)                                            |          |          |
