@@ -6,7 +6,7 @@ On this page you will find all of my CodeFellows work including labs, notes etc.
 
 | Code 102 - Intro to Software Development | Code 201 - Foundations of Software Development | Code 301 - Intermediate Software Development| Code 401 - Advanced Software Development|
 |---------------------------------------------------------------------|---------------------------------------------------------------------|----------|----------|
-| 1. [Code 102 Reading Notes](README.md)                              | 1. [Code 201 Reading Notes](code201Notes.md)                        |  1. [301 Readme](https://clementbuchanan.github.io/data-structures-and-algorithms/)        |          |
+| 1. [Code 102 Reading Notes](README.md)                              | 1. [Code 201 Reading Notes](code201Notes.md)                        |  1. [301 Readme](https://clementbuchanan.github.io/data-structures-and-algorithms/)        |   1. [Code 401](code401Class01.md)    |
 | 2. [My first day of training](training.md)                          | 2. [About Me](aboutMe.md)                                         |  2. [301 Class-01](301Class01.md)
 | 3. [About Git](about_git.md)                                        | 3. [Class 01](code201Class01.md)                                    |  3. [301 Class-03](301Class-03.md)       |          |
 | 4. [About HTML](html.md)                                            | 4. [Class 02](code201Class02.md)                                    |  4. [301 Class-04](301Class04.md)       |          |
